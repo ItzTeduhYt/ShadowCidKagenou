@@ -1,21 +1,21 @@
 :root{
-     --background: url('https://images.alphacoders.com/632/632525.png');
-     --activetext-colour: white;
- 
-     --primary1-colour: red;
-     --primary2-colour: rgba(255,0,0,0.5);
-     --primary3-colour: rgba(100,0,0,0.6);
- 
-     --secondary1-colour: rgba(50,50,50,0.3);
-     --secondary2-colour: rgba(100,100,100,0.5);
-     --secondary3-colour: rgba(0,0,0,0.5);
- 
-     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
- }
+    --background: url('https://cdn.discordapp.com/attachments/1260231552302845962/1269304096796577864/cid_dua.png?ex=66af930f&is=66ae418f&hm=9a8ef4b2617bbd25c792b44b40f59e83c014964c21f0d5ac3af846bf698e2ca9&');
+    --activetext-colour: white;
+
+    --primary1-colour: rgba(155, 0, 194, 0.637);
+    --primary2-colour: rgba(0, 0, 0, 0.5);
+    --primary3-colour: rgba(100,0,0,0.6);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
    
  /*
  Theme Owned and Made by VaporousCreeper#9514
