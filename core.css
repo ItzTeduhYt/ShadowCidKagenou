@@ -29,15 +29,3 @@
     --transparency-4: linear-gradient(to right, rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.815));
     --transparency-5: linear-gradient(to right, rgba(0, 0, 0, 0.068), rgba(0,0,0,0.5));
 }
-#app-mount .mention, #app-mount .channelMention .name_b52c3f {
-    background-color: rgba(0, 0, 0, 0.534);
-    color: rgb(204, 0, 255);
-}
-.button_dd4f85 .contents_dd4f85 {
-    --button--underline-color: transparent;
-    background-color: rgba(247, 0, 255, 0);
-    background-image: linear-gradient(to top,transparent,transparent var(--custom-button-link-underline-offset),transparent var(--custom-button-link-underline-offset),transparent var(--custom-button-link-underline-stop),transparent var(--custom-button-link-underline-stop));
-}
-#app-mount a[target="_blank"] {
-    background-color: rgba(38, 0, 100, 0.356);
-}
