@@ -1,30 +1,38 @@
 /**
- * @name Cid Kagenou aka Shadow
+ * @name Shadow
  * @author ShadowDev
  * @version 0.0.1
- * @description Shadow (Cid kagenou)
- * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ * @description Cid Kagenou/Shadow From Shadow Garden
+ * @source https://github.com/ItzTeduhYt/ShadowCidKagenou/tree/main
  */
 
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-@import url('https://github.com/ItzTeduhYt/ShadowCidKagenou/blob/main/core.css');
+@import url('https://raw.githubusercontent.com/ItzTeduhYt/ShadowCidKagenou/main/core.css');
 
 :root{
     --background: url('https://cdn.discordapp.com/attachments/1260231552302845962/1269304096796577864/cid_dua.png?ex=66af930f&is=66ae418f&hm=9a8ef4b2617bbd25c792b44b40f59e83c014964c21f0d5ac3af846bf698e2ca9&');
-    --activetext-colour: white;
+    --activetext-colour: rgb(255, 255, 255);
 
-    --primary1-colour: rgba(138, 0, 224,0.2);
-    --primary2-colour: rgba(138, 0, 224,0.5);
-    --primary3-colour: rgba(138, 0, 224,0.5);
+    --primary1-colour: rgb(0, 132, 255);
+    --primary2-colour: rgba(0, 0, 0, 0.342);
+    --primary3-colour: rgba(81, 0, 88, 0.137);
 
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary1-colour: rgba(0, 0, 0, 0.192);
+    --secondary2-colour: rgba(225, 0, 255, 0.438);
     --secondary3-colour: rgba(0,0,0,0.5);
 
-    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,0.5));
+    --transparency-1: linear-gradient(to right, rgba(0, 0, 0.5), rgba(0,0,0,0.5));
     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
-  
+#app-mount .mention, #app-mount .channelMention .name_b52c3f {
+    background-color: rgba(0,0,0,0);
+    color: rgb(204, 0, 255);
+}
+.button_dd4f85 .contents_dd4f85 {
+    --button--underline-color: transparent;
+    background-color: rgba(247, 0, 255, 0);
+    background-image: linear-gradient(to top,transparent,transparent var(--custom-button-link-underline-offset),transparent var(--custom-button-link-underline-offset),transparent var(--custom-button-link-underline-stop),transparent var(--custom-button-link-underline-stop));
+}
