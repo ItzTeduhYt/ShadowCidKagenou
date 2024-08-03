@@ -887,3 +887,8 @@
 
     #app-mount .wordmark_a934d8 {top: 3.3px;}
     #app-mount .winButton_a934d8 {top: 2px;}
+
+
+#app-mount a[target="_blank"] {
+    background-color: rgba(38, 0, 100, 0.356);
+}
