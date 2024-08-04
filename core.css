@@ -364,6 +364,7 @@
             #app-mount .embedFull_ad0b71 {
                 background-color: var(--secondary1-colour); 
                 border-left: 4px solid;
+                border-left: 4px solid var(--background-tertiary);
                 border-right: 4px solid;
                 border-radius: 10px!important;
             }
